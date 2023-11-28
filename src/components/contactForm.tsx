@@ -24,7 +24,7 @@ export default function Example() {
     });
 
     const resend = new Resend(env.RESEND_API_KEY);
-    const data = await resend.emails.send({
+    await resend.emails.send({
       from: "Deeznuts <onboarding@plusev.dev>",
       to: ["jakobevangelista@gmail.com"],
       subject: "PlusEv Website Reachout",

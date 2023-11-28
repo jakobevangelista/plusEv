@@ -1,7 +1,6 @@
 import ClientHero from "@/components/clientHero";
 import ContactForm from "@/components/contactForm";
 import Footer from "@/components/footer";
-import { Bars3Icon } from "@heroicons/react/24/outline";
 import Image from "next/image";
 
 const navigation = [{ name: "Contact", href: "#contact" }];

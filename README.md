@@ -1,11 +1,10 @@
-# The starting app for jakob stack (basically T3 but withe the stuff I need)
+# PlusEv Website
 
 The stack:
 
 - Nextjs
-- TRPC
-- Drizzle
 - Tailwind
-- Pusher for websockets deployed with soketi on CF
-- shadcn ui
-- clerk
+- Resend for emails
+- Deployed on Vercel
+
+That's all folks! LMK if theres anything cool I can add
